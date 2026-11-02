@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.venv/
+qa/
+document.html
+document.pdf
